@@ -1,0 +1,7 @@
+Django>=4.2
+djangorestframework>=3.14
+textblob>=0.17
+beautifulsoup4>=4.12
+requests>=2.31
+python-dotenv>=1.0
+django-cors-headers>=3.14
